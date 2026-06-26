@@ -26,7 +26,7 @@ Elas dependem de:
 - remoção de bloqueios;
 - trabalho em equipe.
 
-O Task Manager RPG foi criado para tornar esses comportamentos visíveis e recompensados.
+O TaskeRPG foi criado para tornar esses comportamentos visíveis e recompensados.
 
 ---
 
